@@ -20,7 +20,7 @@ function fibonacci(x) {
     }
 }
 
-fib(10);
+fibonacci(10);
 
 for (i = 0; i < 10; i++) {
     if(i <= 4){
